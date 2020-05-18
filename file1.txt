@@ -1,1 +1,2 @@
 this is file1 created first
+this is khasim edit the file
